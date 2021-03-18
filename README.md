@@ -1,5 +1,6 @@
 # Ansi-color-codes
 
+```pseudocode
 public static final String ANSI_RESET = "\u001B[0m";
 
 public static final String ANSI_BLACK = "\u001B[30m";
@@ -31,4 +32,4 @@ public static final String ANSI_UNDERLINE = "\u001B[4m";
 public static final String ANSI_STOP_UNDERLINE = "\u001B[24m";
 
 public static final String ANSI_BLINK = "\u001B[5m";
-
+```
